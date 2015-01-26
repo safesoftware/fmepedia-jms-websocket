@@ -1,0 +1,213 @@
+2015-01-23 15:49:41|   0.0|  0.0|INFORM|FME 2015.0 (20150113 - Build 15244 - macosx)
+2015-01-23 15:49:41|   0.0|  0.0|INFORM|FME_HOME is '/Applications/FME 2015/Engine/'
+2015-01-23 15:49:41|   0.0|  0.0|INFORM|FME Desktop Smallworld Edition (floating)
+2015-01-23 15:49:41|   0.0|  0.0|INFORM|Permanent License.
+2015-01-23 15:49:41|   0.0|  0.0|INFORM|Machine host name is: gimli.safe.internal
+2015-01-23 15:49:41|   0.0|  0.0|INFORM|START - ProcessID: 41118, peak process memory usage: 0 kB, current process memory usage: 37480 kB
+2015-01-23 15:49:41|   0.0|  0.0|INFORM|FME Configuration: Command line arguments are `/Applications/FME 2015/Engine//bin/fme' `/Users/lkerssens/Desktop/JMS/wb-xlate-1422056981601_40074' `LOG_STANDARDOUT' `YES' `LogCountServerName' `{ce8a81fa-d5aa-4165-ac25-01ecba17f30d}'
+2015-01-23 15:49:41|   0.0|  0.0|INFORM|Shared folders for formats are : /Applications/FME 2015/Engine/datasources;/Users/lkerssens/Documents/MyFiles/FMEResources/Formats;/Users/lkerssens/Library/Application Support/FME/Formats
+2015-01-23 15:49:41|   0.0|  0.0|INFORM|Shared folders for transformers are : /Applications/FME 2015/Engine/transformers;/Users/lkerssens/Documents/MyFiles/FMEResources/Transformers;/Users/lkerssens/Library/Caches/Safe Software/FME/FME Store/Transformers;/Users/lkerssens/Library/Application Support/FME/Transformers
+2015-01-23 15:49:41|   0.0|  0.0|INFORM|Shared folders for coordinate systems are : /Users/lkerssens/Documents/MyFiles/FMEResources/CoordinateSystems;/Users/lkerssens/Library/Application Support/FME/CoordinateSystems
+2015-01-23 15:49:41|   0.0|  0.0|INFORM|Shared folders for coordinate system exceptions are : /Users/lkerssens/Documents/MyFiles/FMEResources/CoordinateSystemExceptions;/Users/lkerssens/Library/Application Support/FME/CoordinateSystemExceptions
+2015-01-23 15:49:41|   0.0|  0.0|INFORM|Shared folders for coordinate system grid overrides are : /Users/lkerssens/Documents/MyFiles/FMEResources/CoordinateSystemGridOverrides;/Users/lkerssens/Library/Application Support/FME/CoordinateSystemGridOverrides
+2015-01-23 15:49:41|   0.0|  0.0|INFORM|Shared folders for CS-MAP transformation exceptions are : /Users/lkerssens/Documents/MyFiles/FMEResources/CsmapTransformationExceptions;/Users/lkerssens/Library/Application Support/FME/CsmapTransformationExceptions
+2015-01-23 15:49:41|   0.0|  0.0|INFORM|Shared folders for transformer categories are : /Users/lkerssens/Documents/MyFiles/FMEResources/TransformerCategories;/Users/lkerssens/Library/Application Support/FME/TransformerCategories
+2015-01-23 15:49:41|   0.0|  0.0|INFORM|Mapping File Identifier is: none2none
+2015-01-23 15:49:41|   0.0|  0.0|INFORM|FME Configuration: Reader Keyword is `NULL_SOURCE'
+2015-01-23 15:49:41|   0.0|  0.0|INFORM|FME Configuration: Writer Keyword is `NULL_DEST'
+2015-01-23 15:49:41|   0.0|  0.0|INFORM|FME Configuration: Writer Group Definition Keyword is `NULL_DEST_DEF'
+2015-01-23 15:49:41|   0.0|  0.0|INFORM|FME Configuration: Reader type is `NULL'
+2015-01-23 15:49:41|   0.0|  0.0|INFORM|FME Configuration: Writer type is `NULL'
+2015-01-23 15:49:41|   0.0|  0.0|INFORM|FME Configuration: No destination coordinate system set
+2015-01-23 15:49:41|   0.0|  0.0|INFORM|FME Configuration: Current working folder is `/Users/lkerssens/Desktop/JMS'
+2015-01-23 15:49:41|   0.0|  0.0|INFORM|FME Configuration: Temporary folder is `/tmp'
+2015-01-23 15:49:41|   0.0|  0.0|INFORM|FME Configuration: FME_HOME is `/Applications/FME 2015/Engine/'
+2015-01-23 15:49:41|   0.0|  0.0|INFORM|FME Configuration: FME_BASE is 'no'
+2015-01-23 15:49:41|   0.0|  0.0|INFORM|FME Configuration: FME_MF_DIR is '/Users/lkerssens/Desktop/JMS/'
+2015-01-23 15:49:41|   0.0|  0.0|INFORM|FME Configuration: FME_MF_NAME is 'JMSReceiverWebSocketSender.fmw'
+2015-01-23 15:49:41|   0.0|  0.0|INFORM|FME Configuration: FME_PRODUCT_NAME is 'FME(R) 2015.0'
+2015-01-23 15:49:41|   0.0|  0.0|INFORM|System Status: 166.91 TB of disk space available in the FME temporary folder (/tmp)
+2015-01-23 15:49:41|   0.0|  0.0|INFORM|System Status: 683.87 GB of virtual memory available
+2015-01-23 15:49:41|   0.0|  0.0|INFORM|Operating System: Darwin 13.4.0 x86_64
+2015-01-23 15:49:41|   0.0|  0.0|INFORM|FME Platform: macosx
+2015-01-23 15:49:41|   0.0|  0.0|INFORM|The memory allocator being used by FME is : `/usr/lib/system/libsystem_malloc.dylib'
+2015-01-23 15:49:41|   0.0|  0.0|INFORM|Locale: C
+2015-01-23 15:49:41|   0.0|  0.0|INFORM|FME Configuration: Process limits are 16.00 GB of physical memory and 683.87 GB of address space
+2015-01-23 15:49:41|   0.0|  0.0|INFORM|FME Configuration: Start freeing memory when process usage exceeds 682.70 GB of memory or 683.28 GB of address space
+2015-01-23 15:49:41|   0.0|  0.0|INFORM|FME Configuration: Stop freeing memory when process usage is below 512.02 GB of memory and 512.46 GB of address space
+2015-01-23 15:49:41|   0.0|  0.0|INFORM|FME Configuration: Autodetermining optimal maximum number of objects in memory
+2015-01-23 15:49:41|   0.1|  0.0|INFORM|Creating writer for format: NULL (Nothing)
+2015-01-23 15:49:41|   0.1|  0.0|INFORM|Trying to find a DYNAMIC plugin for writer named `NULL'
+2015-01-23 15:49:41|   0.1|  0.0|INFORM|DYLD_LIBRARY_PATH is not set
+2015-01-23 15:49:41|   0.1|  0.0|INFORM|Loaded module 'NULL' from file '/Applications/FME 2015/Engine/plugins/null.so'
+2015-01-23 15:49:41|   0.1|  0.0|INFORM|FME API version of module 'NULL' matches current internal version (3.7 20141021)
+2015-01-23 15:49:41|   0.1|  0.0|INFORM|Creating reader for format: NULL (Nothing)
+2015-01-23 15:49:41|   0.1|  0.0|INFORM|Trying to find a DYNAMIC plugin for reader named `NULL'
+2015-01-23 15:49:41|   0.1|  0.0|INFORM|FME API version of module 'NULL' matches current internal version (3.7 20141021)
+2015-01-23 15:49:41|   0.1|  0.0|INFORM|Loaded module 'LogCount_func' from file '/Applications/FME 2015/Engine/plugins/logcount_func.so'
+2015-01-23 15:49:41|   0.1|  0.0|INFORM|FME API version of module 'LogCount_func' matches current internal version (3.7 20141021)
+2015-01-23 15:49:41|   0.1|  0.0|INFORM|Creating writer for format: FME Feature Store (FFS)
+2015-01-23 15:49:41|   0.1|  0.0|INFORM|FME Configuration: No destination coordinate system set
+2015-01-23 15:49:41|   0.1|  0.0|INFORM|FME API version of module 'NULL' matches current internal version (3.7 20141021)
+2015-01-23 15:49:41|   0.1|  0.0|INFORM|FME API version of module 'NULL' matches current internal version (3.7 20141021)
+2015-01-23 15:49:41|   0.1|  0.0|INFORM|Trying to find a Java plugin for factory named `COM.safe.fme.factory.JmsFactory'
+2015-01-23 15:49:41|   0.1|  0.0|INFORM|Initializing the Java Virtual Machine...
+2015-01-23 15:49:42|   0.2|  0.1|INFORM|The Java Virtual Machine was started specifying '-Djava.class.path=/Applications/FME 2015/Engine/plugins:/Applications/FME 2015/Engine/plugins/activemq-all-5.6.0.jar:/Applications/FME 2015/Engine/plugins/aws-java-sdk-1.7.5.jar:/Applications/FME 2015/Engine/plugins/common-util-api.jar:/Applications/FME 2015/Engine/plugins/common-util.jar:/Applications/FME 2015/Engine/plugins/commons-codec-1.3.jar:/Applications/FME 2015/Engine/plugins/commons-io-1.3.2.jar:/Applications/FME 2015/Engine/plugins/commons-logging-1.1.1.jar:/Applications/FME 2015/Engine/plugins/dmtilhplugin.jar:/Applications/FME 2015/Engine/plugins/dom4j-1.6.1.jar:/Applications/FME 2015/Engine/plugins/dynamodb.jar:/Applications/FME 2015/Engine/plugins/fme_jdbc.jar:/Applications/FME 2015/Engine/plugins/fmeserver-api.jar:/Applications/FME 2015/Engine/plugins/fmeserverconfiguration.jar:/Applications/FME 2015/Engine/plugins/gcmfactory.jar:/Applications/FME 2015/Engine/plugins/google-api-client-1.15.0-rc.jar:/Applications/FME 2015/Engine/plugins/google-api-services-bigquery-v2-rev101-1.15.0-rc.jar:/Applications/FME 2015/Engine/plugins/google-http-client-1.15.0-rc.jar:/Applications/FME 2015/Engine/plugins/google-http-client-jackson-1.15.0-rc.jar:/Applications/FME 2015/Engine/plugins/google-oauth-client-1.15.0-rc.jar:/Applications/FME 2015/Engine/plugins/googlebigquery.jar:/Applications/FME 2015/Engine/plugins/httpclient-4.2.jar:/Applications/FME 2015/Engine/plugins/httpcore-4.2.jar:/Applications/FME 2015/Engine/plugins/iijdbc.jar:/Applications/FME 2015/Engine/plugins/ili2c.jar:/Applications/FME 2015/Engine/plugins/ili2fme.jar:/Applications/FME 2015/Engine/plugins/ingres.jar:/Applications/FME 2015/Engine/plugins/jackson-annotations-2.1.1.jar:/Applications/FME 2015/Engine/plugins/jackson-core-2.1.1.jar:/Applications/FME 2015/Engine/plugins/jackson-core-asl-1.9.12.jar:/Applications/FME 2015/Engine/plugins/jackson-databind-2.1.1.jar:/Applications/FME 2015/Engine/plugins/jackson-mapper-asl-1.9.12.jar:/Applications/FME 2015/Engine/plugins/jaxen-1.1.1.jar:/Applications/FME 2015/Engine/plugins/jmsfactory.jar:/Applications/FME 2015/Engine/plugins/joda-time-2.2.jar:/Applications/FME 2015/Engine/plugins/jts-1.8.jar:/Applications/FME 2015/Engine/plugins/netty-3.6.3.Final.jar:/Applications/FME 2015/Engine/plugins/pluginbuilder.jar:/Applications/FME 2015/Engine/plugins/s3factory.jar:/Applications/FME 2015/Engine/plugins/server-configuration-common.jar:/Applications/FME 2015/Engine/plugins/server-plugin-common.jar:/Applications/FME 2015/Engine/plugins/snsfactory.jar:/Applications/FME 2015/Engine/plugins/sqsfactory.jar:/Applications/FME 2015/Engine/plugins/teradata_jdbc.jar:/Applications/FME 2015/Engine/plugins/tfs.jar:/Applications/FME 2015/Engine/plugins/websocketfactory.jar:/Users/lkerssens/Library/Application Support/FME/Plugins/Java' for the classpath option
+2015-01-23 15:49:42|   0.3|  0.1|INFORM|Loaded module 'XMLTemplaterFactory' from file '/Applications/FME 2015/Engine/plugins/xmltemplaterfactory.so'
+2015-01-23 15:49:42|   0.3|  0.0|INFORM|FME API version of module 'XMLTemplaterFactory' matches current internal version (3.7 20141021)
+2015-01-23 15:49:42|   0.3|  0.0|INFORM|Trying to find a Java plugin for factory named `COM.safe.fme.factory.WebSocketFactory'
+2015-01-23 15:49:42|   0.4|  0.0|INFORM|... Last line repeated 3 times ...
+2015-01-23 15:49:42|   0.4|  0.0|INFORM|Emptying factory pipeline
+2015-01-23 15:49:42|   0.4|  0.0|INFORM|Connecting to JMS provider with url "tcp://54.81.254.73:61616" and initial context "org.apache.activemq.jndi.ActiveMQInitialContextFactory" ...
+2015-01-23 15:49:42|   0.7|  0.3|INFORM|... Last line repeated 3 times ...
+2015-01-23 15:49:42|   0.7|  0.0|INFORM|Successfully connected to JMS provider
+2015-01-23 15:49:43|   0.8|  0.1|INFORM|Successfully connected to JMS provider
+2015-01-23 15:49:43|   0.8|  0.0|INFORM|Setting up JMS message listener for destination "dynamicQueues/TruckOpInfo" ...
+2015-01-23 15:49:43|   0.8|  0.0|INFORM|Successfully connected to JMS provider
+2015-01-23 15:49:43|   0.8|  0.0|INFORM|Successfully connected to JMS provider
+2015-01-23 15:49:43|   0.8|  0.0|INFORM|Setting up JMS message listener for destination "dynamicQueues/TruckLocation" ...
+2015-01-23 15:49:43|   0.8|  0.0|INFORM|Successfully set up JMS message listener
+2015-01-23 15:49:44|   0.8|  0.0|INFORM|Successfully set up JMS message listener
+2015-01-23 15:49:44|   0.8|  0.0|INFORM|Setting up JMS message listener for destination "dynamicQueues/TruckStatus" ...
+2015-01-23 15:49:44|   0.8|  0.0|INFORM|Setting up JMS message listener for destination "dynamicQueues/TruckGeoFence" ...
+2015-01-23 15:49:44|   0.8|  0.0|INFORM|Successfully set up JMS message listener
+2015-01-23 15:49:51|   0.8|  0.0|INFORM|Successfully set up JMS message listener
+2015-01-23 15:49:51|   0.8|  0.0|INFORM|Received JMS message from destination "dynamicQueues/TruckOpInfo"
+2015-01-23 15:49:51|   0.9|  0.0|INFORM|WebSocketSender: Initializing SSL for URI: ‘wss://bluesky-safe-software.fmecloud.com:7078/websocket’
+2015-01-23 15:49:52|   1.2|  0.3|INFORM|WebSocketSender: Attempting to connect to host 'bluesky-safe-software.fmecloud.com' on port '7078'
+2015-01-23 15:49:52|   1.3|  0.1|INFORM|WebSocketSender: Successfully connected to host 'bluesky-safe-software.fmecloud.com' on port '7078'
+2015-01-23 15:49:52|   1.3|  0.0|INFORM|WebSocketSender: Performing handshake with remote host
+2015-01-23 15:49:52|   1.5|  0.2|INFORM|WebSocketSender: Handshake successful
+2015-01-23 15:49:52|   1.5|  0.0|INFORM|WebSocketSender: Transmitted Connection Preamble
+2015-01-23 15:49:52|   1.5|  0.0|INFORM|Received JMS message from destination "dynamicQueues/TruckStatus"
+2015-01-23 15:49:52|   1.5|  0.0|WARN  |WebSocketSender: WebSocket Server URL did not contain a port. Using default port '7078'
+2015-01-23 15:49:52|   1.5|  0.0|INFORM|WebSocketSender: Initializing SSL for URI: ‘wss://bluesky-safe-software.fmecloud.com:7078/websocket’
+2015-01-23 15:49:52|   1.5|  0.0|INFORM|WebSocketSender: Attempting to connect to host 'bluesky-safe-software.fmecloud.com' on port '7078'
+2015-01-23 15:49:52|   1.5|  0.0|INFORM|WebSocketSender: Successfully connected to host 'bluesky-safe-software.fmecloud.com' on port '7078'
+2015-01-23 15:49:52|   1.5|  0.0|INFORM|WebSocketSender: Performing handshake with remote host
+2015-01-23 15:49:53|   1.5|  0.0|INFORM|WebSocketSender: Handshake successful
+2015-01-23 15:49:53|   1.5|  0.0|INFORM|WebSocketSender: Transmitted Connection Preamble
+2015-01-23 15:49:53|   1.5|  0.0|INFORM|Received JMS message from destination "dynamicQueues/TruckGeoFence"
+2015-01-23 15:49:53|   1.5|  0.0|WARN  |WebSocketSender: WebSocket Server URL did not contain a port. Using default port '7078'
+2015-01-23 15:49:53|   1.5|  0.0|INFORM|WebSocketSender: Initializing SSL for URI: ‘wss://bluesky-safe-software.fmecloud.com:7078/websocket’
+2015-01-23 15:49:53|   1.5|  0.0|INFORM|WebSocketSender: Attempting to connect to host 'bluesky-safe-software.fmecloud.com' on port '7078'
+2015-01-23 15:49:53|   1.5|  0.0|INFORM|WebSocketSender: Successfully connected to host 'bluesky-safe-software.fmecloud.com' on port '7078'
+2015-01-23 15:49:53|   1.5|  0.0|INFORM|WebSocketSender: Performing handshake with remote host
+2015-01-23 15:49:53|   1.5|  0.0|INFORM|WebSocketSender: Handshake successful
+2015-01-23 15:49:53|   1.5|  0.0|INFORM|WebSocketSender: Transmitted Connection Preamble
+2015-01-23 15:49:53|   1.5|  0.0|INFORM|Received JMS message from destination "dynamicQueues/TruckLocation"
+2015-01-23 15:49:53|   1.5|  0.0|WARN  |WebSocketSender: WebSocket Server URL did not contain a port. Using default port '7078'
+2015-01-23 15:49:53|   1.5|  0.0|INFORM|WebSocketSender: Initializing SSL for URI: ‘wss://bluesky-safe-software.fmecloud.com:7078/websocket’
+2015-01-23 15:49:53|   1.5|  0.0|INFORM|WebSocketSender: Attempting to connect to host 'bluesky-safe-software.fmecloud.com' on port '7078'
+2015-01-23 15:49:53|   1.5|  0.0|INFORM|WebSocketSender: Successfully connected to host 'bluesky-safe-software.fmecloud.com' on port '7078'
+2015-01-23 15:49:53|   1.5|  0.0|INFORM|WebSocketSender: Performing handshake with remote host
+2015-01-23 15:49:54|   1.6|  0.0|INFORM|WebSocketSender: Handshake successful
+2015-01-23 15:49:54|   1.6|  0.0|INFORM|WebSocketSender: Transmitted Connection Preamble
+2015-01-23 15:50:06|   1.6|  0.0|INFORM|Received JMS message from destination "dynamicQueues/TruckOpInfo"
+2015-01-23 15:50:06|   1.6|  0.0|INFORM|Received JMS message from destination "dynamicQueues/TruckStatus"
+2015-01-23 15:50:06|   1.6|  0.0|INFORM|Received JMS message from destination "dynamicQueues/TruckGeoFence"
+2015-01-23 15:50:07|   1.6|  0.0|INFORM|Received JMS message from destination "dynamicQueues/TruckLocation"
+2015-01-23 16:06:20|   2.9|  1.3|INFORM|Received JMS message from destination "dynamicQueues/TruckOpInfo"
+2015-01-23 16:06:20|   2.9|  0.0|INFORM|Received JMS message from destination "dynamicQueues/TruckStatus"
+2015-01-23 16:06:20|   2.9|  0.0|INFORM|Received JMS message from destination "dynamicQueues/TruckGeoFence"
+2015-01-23 16:06:21|   2.9|  0.0|INFORM|Received JMS message from destination "dynamicQueues/TruckLocation"
+2015-01-23 16:07:14|   3.0|  0.1|INFORM|Received JMS message from destination "dynamicQueues/TruckOpInfo"
+2015-01-23 16:07:14|   3.0|  0.0|INFORM|Received JMS message from destination "dynamicQueues/TruckStatus"
+2015-01-23 16:07:14|   3.0|  0.0|INFORM|Received JMS message from destination "dynamicQueues/TruckGeoFence"
+2015-01-23 16:07:15|   3.0|  0.0|INFORM|Received JMS message from destination "dynamicQueues/TruckLocation"
+2015-01-23 16:08:46|   3.1|  0.1|INFORM|Received JMS message from destination "dynamicQueues/TruckOpInfo"
+2015-01-23 16:08:47|   3.1|  0.0|INFORM|Received JMS message from destination "dynamicQueues/TruckStatus"
+2015-01-23 16:08:47|   3.1|  0.0|INFORM|Received JMS message from destination "dynamicQueues/TruckGeoFence"
+2015-01-23 16:08:47|   3.1|  0.0|INFORM|Received JMS message from destination "dynamicQueues/TruckLocation"
+2015-01-23 16:09:03|   3.1|  0.0|INFORM|Received JMS message from destination "dynamicQueues/TruckOpInfo"
+2015-01-23 16:09:03|   3.1|  0.0|INFORM|Received JMS message from destination "dynamicQueues/TruckStatus"
+2015-01-23 16:09:04|   3.1|  0.0|INFORM|Received JMS message from destination "dynamicQueues/TruckGeoFence"
+2015-01-23 16:09:04|   3.1|  0.0|INFORM|Received JMS message from destination "dynamicQueues/TruckLocation"
+2015-01-23 16:09:41|   3.2|  0.0|INFORM|Received JMS message from destination "dynamicQueues/TruckOpInfo"
+2015-01-23 16:09:41|   3.2|  0.0|INFORM|Received JMS message from destination "dynamicQueues/TruckStatus"
+2015-01-23 16:09:42|   3.2|  0.0|INFORM|Received JMS message from destination "dynamicQueues/TruckGeoFence"
+2015-01-23 16:09:42|   3.2|  0.0|INFORM|Received JMS message from destination "dynamicQueues/TruckLocation"
+2015-01-23 16:10:12|   3.2|  0.0|INFORM|Received JMS message from destination "dynamicQueues/TruckOpInfo"
+2015-01-23 16:10:13|   3.2|  0.0|INFORM|Received JMS message from destination "dynamicQueues/TruckStatus"
+2015-01-23 16:10:13|   3.2|  0.0|INFORM|Received JMS message from destination "dynamicQueues/TruckGeoFence"
+2015-01-23 16:10:13|   3.2|  0.0|INFORM|Received JMS message from destination "dynamicQueues/TruckLocation"
+2015-01-23 16:10:37|   3.3|  0.0|INFORM|Received JMS message from destination "dynamicQueues/TruckOpInfo"
+2015-01-23 16:10:38|   3.3|  0.0|INFORM|Received JMS message from destination "dynamicQueues/TruckStatus"
+2015-01-23 16:10:38|   3.3|  0.0|INFORM|Received JMS message from destination "dynamicQueues/TruckGeoFence"
+2015-01-23 16:10:38|   3.3|  0.0|INFORM|Received JMS message from destination "dynamicQueues/TruckLocation"
+2015-01-23 16:13:44|   3.5|  0.3|INFORM|Received JMS message from destination "dynamicQueues/TruckOpInfo"
+2015-01-23 16:13:44|   3.5|  0.0|INFORM|Received JMS message from destination "dynamicQueues/TruckStatus"
+2015-01-23 16:13:44|   3.5|  0.0|INFORM|Received JMS message from destination "dynamicQueues/TruckGeoFence"
+2015-01-23 16:13:45|   3.5|  0.0|INFORM|Received JMS message from destination "dynamicQueues/TruckLocation"
+2015-01-23 16:15:17|   3.7|  0.1|INFORM|Received JMS message from destination "dynamicQueues/TruckOpInfo"
+2015-01-23 16:15:17|   3.7|  0.0|INFORM|Received JMS message from destination "dynamicQueues/TruckStatus"
+2015-01-23 16:15:17|   3.7|  0.0|INFORM|Received JMS message from destination "dynamicQueues/TruckGeoFence"
+2015-01-23 16:15:18|   3.7|  0.0|INFORM|Received JMS message from destination "dynamicQueues/TruckLocation"
+2015-01-23 16:15:23|   3.7|  0.0|INFORM|Received JMS message from destination "dynamicQueues/TruckOpInfo"
+2015-01-23 16:15:23|   3.7|  0.0|INFORM|Received JMS message from destination "dynamicQueues/TruckStatus"
+2015-01-23 16:15:24|   3.7|  0.0|INFORM|Received JMS message from destination "dynamicQueues/TruckGeoFence"
+2015-01-23 16:15:24|   3.7|  0.0|INFORM|Received JMS message from destination "dynamicQueues/TruckLocation"
+2015-01-23 16:15:44|   3.7|  0.0|INFORM|Received JMS message from destination "dynamicQueues/TruckOpInfo"
+2015-01-23 16:15:45|   3.7|  0.0|INFORM|Received JMS message from destination "dynamicQueues/TruckStatus"
+2015-01-23 16:15:45|   3.7|  0.0|INFORM|Suppressing log messages until #100
+2015-01-23 16:28:40|   4.9|  1.1|INFORM|Received JMS message from destination "dynamicQueues/TruckStatus"
+2015-01-23 16:28:40|   4.9|  0.0|INFORM|Suppressing log messages until #200
+2015-01-23 16:29:29|   5.0|  0.1|INFORM|Received JMS message from destination "dynamicQueues/TruckOpInfo"
+2015-01-23 16:29:29|   5.0|  0.0|INFORM|Suppressing log messages until #400
+2015-01-23 16:29:30|   5.1|  0.1|INFORM|Received JMS message from destination "dynamicQueues/TruckGeoFence"
+2015-01-23 16:29:30|   5.1|  0.0|INFORM|Suppressing log messages until #800
+2015-01-23 16:29:53|   5.4|  0.3|INFORM|Received JMS message from destination "dynamicQueues/TruckGeoFence"
+2015-01-23 16:29:53|   5.4|  0.0|INFORM|Suppressing log messages until #1600
+2015-01-23 16:42:53|   6.8|  1.4|INFORM|Received JMS message from destination "dynamicQueues/TruckGeoFence"
+2015-01-23 16:42:53|   6.8|  0.0|INFORM|Suppressing log messages until #3200
+2015-01-23 16:44:18|   7.9|  1.1|INFORM|Received JMS message from destination "dynamicQueues/TruckLocation"
+2015-01-23 16:44:18|   7.9|  0.0|INFORM|Suppressing log messages until #6400
+2015-01-23 16:44:18|   8.4|  0.5|INFORM|WebSocketSender: Successfully sent 1000 features
+2015-01-23 16:44:39|   9.8|  1.4|INFORM|... Last line repeated 3 times ...
+2015-01-23 16:44:39|   9.8|  0.0|INFORM|Received JMS message from destination "dynamicQueues/TruckOpInfo"
+2015-01-23 16:44:39|   9.8|  0.0|INFORM|Suppressing log messages until #12800
+2015-01-23 16:44:57|  10.3|  0.5|INFORM|WebSocketSender: Successfully sent 2000 features
+2015-01-23 16:45:02|  12.6|  2.4|INFORM|... Last line repeated 3 times ...
+2015-01-23 16:45:02|  12.6|  0.0|INFORM|WebSocketSender: Successfully sent 3000 features
+2015-01-23 16:45:03|  12.9|  0.3|INFORM|... Last line repeated 3 times ...
+2015-01-23 16:45:03|  12.9|  0.0|INFORM|Received JMS message from destination "dynamicQueues/TruckOpInfo"
+2015-01-23 16:45:03|  12.9|  0.0|INFORM|Suppressing log messages until #25600
+2015-01-23 16:45:06|  14.0|  1.1|INFORM|WebSocketSender: Successfully sent 4000 features
+2015-01-23 16:45:11|  15.2|  1.2|INFORM|... Last line repeated 3 times ...
+2015-01-23 16:45:11|  15.2|  0.0|INFORM|WebSocketSender: Successfully sent 5000 features
+2015-01-23 16:45:16|  16.4|  1.2|INFORM|... Last line repeated 3 times ...
+2015-01-23 16:45:16|  16.4|  0.0|INFORM|WebSocketSender: Successfully sent 6000 features
+2015-01-23 16:45:18|  16.8|  0.5|INFORM|... Last line repeated 3 times ...
+2015-01-23 16:45:18|  16.8|  0.0|INFORM|Received JMS message from destination "dynamicQueues/TruckStatus"
+2015-01-23 16:45:18|  16.8|  0.0|INFORM|Suppressing log messages until #51200
+2015-01-23 16:45:20|  17.5|  0.7|INFORM|WebSocketSender: Successfully sent 7000 features
+2015-01-23 16:45:25|  18.6|  1.1|INFORM|... Last line repeated 3 times ...
+2015-01-23 16:45:25|  18.6|  0.0|INFORM|WebSocketSender: Successfully sent 8000 features
+2015-01-23 16:45:30|  19.7|  1.1|INFORM|... Last line repeated 3 times ...
+2015-01-23 16:45:30|  19.7|  0.0|INFORM|WebSocketSender: Successfully sent 9000 features
+2015-01-23 16:45:34|  20.8|  1.1|INFORM|... Last line repeated 3 times ...
+2015-01-23 16:45:34|  20.8|  0.0|INFORM|WebSocketSender: Successfully sent 10000 features
+2015-01-23 16:45:39|  22.0|  1.2|INFORM|... Last line repeated 3 times ...
+2015-01-23 16:45:39|  22.0|  0.0|INFORM|WebSocketSender: Successfully sent 11000 features
+2015-01-23 17:20:55|  25.9|  3.9|INFORM|... Last line repeated 3 times ...
+2015-01-23 17:20:55|  25.9|  0.0|INFORM|WebSocketSender: Successfully sent 12000 features
+2015-01-23 17:20:58|  26.8|  1.0|INFORM|... Last line repeated 3 times ...
+2015-01-23 17:20:58|  26.8|  0.0|INFORM|Received JMS message from destination "dynamicQueues/TruckLocation"
+2015-01-23 17:20:58|  26.8|  0.0|INFORM|Suppressing log messages until #102400
+2015-01-23 17:20:59|  27.1|  0.2|INFORM|WebSocketSender: Successfully sent 13000 features
+2015-01-23 17:21:04|  28.3|  1.2|INFORM|... Last line repeated 3 times ...
+2015-01-23 17:21:04|  28.3|  0.0|INFORM|WebSocketSender: Successfully sent 14000 features
+2015-01-23 17:21:09|  29.5|  1.2|INFORM|... Last line repeated 3 times ...
+2015-01-23 17:21:09|  29.5|  0.0|INFORM|WebSocketSender: Successfully sent 15000 features
+2015-01-23 17:21:14|  30.6|  1.1|INFORM|... Last line repeated 3 times ...
+2015-01-23 17:21:14|  30.6|  0.0|INFORM|WebSocketSender: Successfully sent 16000 features
+2015-01-23 17:21:18|  31.7|  1.1|INFORM|... Last line repeated 3 times ...
+2015-01-23 17:21:18|  31.7|  0.0|INFORM|WebSocketSender: Successfully sent 17000 features
+2015-01-23 17:21:23|  32.8|  1.1|INFORM|... Last line repeated 3 times ...
+2015-01-23 17:21:23|  32.8|  0.0|INFORM|WebSocketSender: Successfully sent 18000 features
+2015-01-23 17:21:28|  33.9|  1.1|INFORM|... Last line repeated 3 times ...
+2015-01-23 17:21:28|  33.9|  0.0|INFORM|WebSocketSender: Successfully sent 19000 features
+2015-01-23 17:21:32|  35.1|  1.1|INFORM|... Last line repeated 3 times ...
+2015-01-23 17:21:32|  35.1|  0.0|INFORM|WebSocketSender: Successfully sent 20000 features
+2015-01-23 17:21:37|  36.2|  1.1|INFORM|... Last line repeated 3 times ...
+2015-01-23 17:21:37|  36.2|  0.0|INFORM|WebSocketSender: Successfully sent 21000 features

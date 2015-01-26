@@ -1,0 +1,113 @@
+<!doctype html>
+<html lang="en">
+<meta charset="UTF-8">
+<head>
+	<!-- Safe Software, 2013 -->
+	<!-- http://www.safe.com -->
+
+	<title>FME Server WebSockets</title>
+
+	<!-- JQuery -->
+	<script src="libs/jquery-1.10.1.js"></script>
+
+	<!-- Bootstrap -->
+	<!--http://getbootstrap.com/2.3.2/-->
+	<script src="libs/bootstrap/js/bootstrap.js"></script>
+	<link href="libs/bootstrap/css/bootstrap.css" rel="stylesheet" media="screen">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link href="libs/bootstrap/css/bootstrap-responsive.css" rel="stylesheet">
+  
+	<!-- Google Maps -->
+	<link href="https://google-developers.appspot.com/maps/documentation/javascript/examples/default.css" rel="stylesheet" type="text/css" />
+	<script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?sensor=false"></script>
+
+	<!-- FME Server Javascript API -->
+    <script type="text/javascript" src="http://api.fmeserver.com/js/v1.1/FMEServer.js"></script>
+
+	<!-- Stylesheet for demo/tutorial -->
+	<link rel="stylesheet" href="css/index.css">
+
+</head>
+
+<body>
+	  <span id="safe-ribbon"><a href="http://www.safe.com">Powered by FME</a></span>
+  <div class="navbar navbar-fixed-top">
+    <div class="navbar-inner">
+      <div class="container">        
+        <div class="brand">FME Server Demos</div> 
+        <ul class="nav pull-left">
+          <a href="https://github.com/safesoftware/easytranslator" class="btn"><img src="libs/github.png"> Fork GitHub</a>
+          <a href="https://github.com/safesoftware/easytranslator/archive/master.zip" class="btn"><i class="icon-download-alt"></i> Download Zip</a>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+
+	<div class="container">
+
+      <div class="row">
+          <h2>Messages Received</h2>
+		  <p><a class="btn" id="clear" onclick="clearlog()">Clear logs</a></p>
+          <div id="TruckOpInfo" class="span6 log"></div>
+          <div id='TruckStatus' class="span6 log"></div>
+          <div id='TruckGeoFence' class="span6 log"></div>
+          <div id='TruckLocation' class="span6 log"></div>
+      </div>
+	</div>
+	
+	<script type="text/javascript">
+	var rcv_opInfo, rcv_status, rcv_geofence, rcv_location;
+
+	window.onload = function initialize() {
+
+		FMEServer.init({
+			server : "https://bluesky-safe-software.fmecloud.com",
+			token : "7c25c9aede02dee55ee97bfcf3b25ad4a93426ad"
+		});
+
+		/*** FME Server WebSocket initialization ***/
+		rcv_opInfo = FMEServer.getWebSocketConnection('TruckOpInfo');
+		rcv_status = FMEServer.getWebSocketConnection('TruckStatus');
+		rcv_geofence = FMEServer.getWebSocketConnection('TruckGeoFence');
+		rcv_location = FMEServer.getWebSocketConnection('TruckLocation');
+	
+		
+		/*** Reacting to incoming messages on WebSocket ***/
+		rcv_opInfo.onmessage = function(event) {
+			log_message(event.data, 'TruckOpInfo');
+		}
+		rcv_status.onmessage = function(event) {
+			log_message(event.data, 'TruckStatus');
+		}
+		rcv_geofence.onmessage = function(event) {
+			log_message(event.data, 'TruckGeoFence');
+		}
+		rcv_location.onmessage = function(event) {
+			log_message(event.data, 'TruckLocation');
+		}
+	}
+	
+	/*** Function to log sent and received WebSocket messages ***/
+	function log_message(message, div_id) {
+		var div = document.getElementById(div_id);
+		//div.innerHTML = '<p>'+new Date().toLocaleTimeString()+'<br>'+message+'</p>' + div.innerHTML;
+		div.innerHTML = '<p>'+new Date().toLocaleTimeString()+'<br>'+message+'</p>';
+
+	}
+	
+	/*** Clear logs, triggered by button click ***/
+	function clearlog() {
+		var div = document.getElementById('TruckOpInfo');
+		div.innerHTML = '';
+		var div = document.getElementById('TruckStatus');
+		div.innerHTML = '';
+		var div = document.getElementById('TruckGeoFence');
+		div.innerHTML = '';
+		var div = document.getElementById('TruckLocation');
+		div.innerHTML = '';
+	}
+	</script>
+</body>
+
+</html>
